@@ -8,13 +8,9 @@ This folder contains all work related to the **Text Analytics** module of the MS
 
 - `text_analytics_sentiment_ner_topic_modeling_msc.pdf` — Full project report
 - `notebooks/`
-  - `task1_sentiment_classification/` — Notebook and outputs for sentiment analysis
-  - `task2_topic_modeling.ipynb` — Topic modelling using LDA and HDP
-  - `task3_named_entity_recognition.ipynb` — CRF, BiLSTM+CRF, TinyBERT
-- `data/` — Climate tweets, tokenized corpora
-- `models/` — Pretrained and fine-tuned models (e.g., TinyBERT)
-- `outputs/` — Evaluation results and visualizations
-
+  - `Task 1/` — Notebook and outputs for sentiment analysis
+  - `TASK 2.ipynb` — Topic modelling using LDA and HDP
+  - `task 3.ipynb` — CRF, BiLSTM+CRF, TinyBERT
 ---
 
 ## 📝 Task 1: Sentiment Classification on Climate Tweets
