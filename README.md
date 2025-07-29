@@ -16,14 +16,10 @@ Each folder includes code, analysis, and a comprehensive PDF report summarizing 
 ├── AI_Coursework/
 │   ├── ai_semantic_clustering_supervised_models_msc.pdf
 │   ├── notebooks/
-│   ├── data/
-│   └── images/
 │
 ├── Text_Analytics/
 │   ├── text_analytics_sentiment_ner_topic_modeling_msc.pdf
 │   ├── notebooks/
-│   ├── data/
-│   └── models/
 │
 └── README.md
 ```
