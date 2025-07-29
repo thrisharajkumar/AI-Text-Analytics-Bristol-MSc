@@ -10,8 +10,6 @@ This folder contains all files related to the **Artificial Intelligence** course
 - `notebooks/`
   - `task1_unsupervised_semantic_clustering.ipynb`
   - `task2_supervised_model_robustness.ipynb`
-- `data/` — Includes co-occurrence matrices, vocabulary sets
-- `images/` — Visualizations like PCA plots, clustering graphs
 
 ---
 
